@@ -1,1 +1,1 @@
-# Salon-Appointment-Scheduler-DB
+# Salon Appointment Scheduler Database
